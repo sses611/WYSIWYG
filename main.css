@@ -1,0 +1,5 @@
+@import "./reset.css";
+
+#editor{ 
+    width: 50px;
+}
